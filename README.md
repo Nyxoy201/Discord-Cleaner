@@ -11,7 +11,7 @@
 - [📷・Preview](#preview)
 
 
-  ### 💻 Compiled Version :
+  ## <a id="menu"></a>💻 » Compiled Version 
   [Download Here](https://github.com/Nyxoy201/Discord-Cleaner/releases/download/1.0/main.exe)
 
 
