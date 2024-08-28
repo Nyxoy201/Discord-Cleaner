@@ -10,6 +10,9 @@
 - [⚙・More](#more)
 - [📷・Preview](#preview)
 
+  ### Compiled Version :
+  [Download Here](https://github.com/Nyxoy201/Discord-Cleaner/releases/download/1.0/main.exe)
+
 
 ## <a id="features"></a>🛠 » Features
 1. `Check for injections`
