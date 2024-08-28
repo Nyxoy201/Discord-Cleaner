@@ -39,10 +39,6 @@
 ## <a id="preview"></a>📷 » Preview
 ![image](https://github.com/user-attachments/assets/ce3e9b77-6c9e-4071-8560-3c58886f7334)
 
-![image](https://github.com/user-attachments/assets/6d06baf2-638f-4fa6-9b83-ece4e0e5eab0)
-
-![image](https://github.com/user-attachments/assets/90242953-891c-493b-af7e-4db3b9fa137b)
-
 
 ---
 *The script was made by Nyxoy*
